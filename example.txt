@@ -6,3 +6,7 @@ My Grocery List
 - Butter
 - Sugar
 - Lemons
+- Chicken
+- Lettuce
+- Bread
+- Tacos
